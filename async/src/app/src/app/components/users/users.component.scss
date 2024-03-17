@@ -1,0 +1,14 @@
+.user-card {
+    padding: 16px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    
+    &:hover {
+        background-color: rgb(181, 209, 247);
+    }
+}
+  
+  .user-id, .user-name, .user-age {
+    margin-bottom: 8px;
+  }
+  
